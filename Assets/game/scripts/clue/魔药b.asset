@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf67fab1b473cc48973a4821ad82576, type: 3}
+  m_Name: "\u9B54\u836Fb"
+  m_EditorClassIdentifier: 
+  clueId: CLUE_004
+  clueName: "\u9B54\u836Fb"
+  clueSprite: {fileID: 21300000, guid: 9f26330705f2011469efe8fb69ce4246, type: 3}
+  description: "\u592A\u4E71\u4E86\u2026\u2026\u6839\u672C\u5206\u4E0D\u6E05\u54EA\u4E9B\u6B65\u9AA4\u80FD\u4FE1\u3002\n\u2018\u771F\u6709\u610F\u601D\u2019\u2026\u2026\u8FD9\u4E0D\u50CF\u662F\u75AF\u5B50\u7684\u53E3\u543B\uFF0C\u5012\u50CF\u662F\u2026\u2026\n\u770B\u7A7F\u4E86\u4E00\u573A\u628A\u620F\u540E\u7684\u51B7\u7B11\u3002\u7ED3\u5408\u4E4B\u524D\u53D1\u73B0\u7684\u90A3\u4E9B\u4F2A\u9020\u75D5\u8FF9\u2026\u2026\n\n\u96BE\u9053\uFF0C\u5979\u6839\u672C\u6CA1\u75AF\uFF1F\u8FD9\u4E9B\u2018\u75AF\u8BDD\u2019\uFF0C\u5168\u662F\u522B\u4EBA\u5199\u4E0A\u53BB\u7684\n"
+  customClueUIPrefab: {fileID: 1178150701977758900, guid: cebf21400c1e0d847bb21001de40ea0b, type: 3}
+  customGridUIPrefab: {fileID: 869588682548232771, guid: 6c570e95f9e2182478d84f039b10b3f0, type: 3}
+  isImportant: 0
+  clueValue: 1

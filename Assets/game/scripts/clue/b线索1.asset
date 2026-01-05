@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: acf67fab1b473cc48973a4821ad82576, type: 3}
+  m_Name: "b\u7EBF\u7D221"
+  m_EditorClassIdentifier: 
+  clueId: CLUE_006
+  clueName: "b\u7EBF\u7D221"
+  clueSprite: {fileID: 21300000, guid: 5630b8aa363eff7458cd9d985973470c, type: 3}
+  description: 
+  customClueUIPrefab: {fileID: 1178150701977758900, guid: cebf21400c1e0d847bb21001de40ea0b, type: 3}
+  customGridUIPrefab: {fileID: 869588682548232771, guid: 14e211a5f2ae8e647ad4e3eb09da2293, type: 3}
+  isImportant: 0
+  clueValue: 1
